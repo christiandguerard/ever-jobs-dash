@@ -1,8 +1,8 @@
 name: Daily Job Scrape
 on:
   schedule:
-    - cron: '0 9 * * *' # Runs at 9:00 AM UTC daily
-  workflow_dispatch: # Allows you to click "Run workflow" manually
+    - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -17,25 +17,24 @@ jobs:
           node-version: '18'
 
       - name: Install Dependencies
-        # Using install + legacy-peer-deps to bypass the errors you saw
+        # Use install with legacy-peer-deps to fix the sync errors from before
         run: npm install --legacy-peer-deps
 
       - name: Build Scraper
-        # The tool needs to be compiled before it can run
+        # This converts the source code into a runnable tool
         run: npm run build
 
       - name: Run Scraper Loop
         run: |
-          # Clear the file first so we don't have old duplicates
+          # Start a fresh CSV with headers
           echo "Source,Company,Title,Location,Link" > daily_jobs.csv
           
-          # This reads your my_companies.txt (format: source:slug)
+          # This reads your my_companies.txt
           while IFS=: read -r source slug || [ -n "$source" ]; do
-            # Skip empty lines or comments
             [[ "$source" =~ ^#.*$ || -z "$source" ]] && continue
             
             echo "Scraping $slug from $source..."
-            # Runs the tool and appends results to our CSV
+            # Running the local code directly instead of a global package
             node dist/cli.js $source $slug --format csv >> daily_jobs.csv
           done < my_companies.txt
 
