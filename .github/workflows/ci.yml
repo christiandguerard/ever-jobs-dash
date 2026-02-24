@@ -1,7 +1,7 @@
 name: Daily Job Scrape
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 12 * * *' # Runs at 7:00 AM Montreal Time
   workflow_dispatch:
 
 jobs:
@@ -28,22 +28,22 @@ jobs:
         run: npm run build
 
       - name: Run Scraper Loop
+        env:
+          LOG_LEVEL: error
         run: |
           CLI_PATH="dist/cli/main.js"
           if [ -f "dist/apps/cli/main.js" ]; then
             CLI_PATH="dist/apps/cli/main.js"
           fi
 
-          # Clear old data
-          rm -f daily_jobs.csv
+          echo "Site,Title,Company,Location,URL,Date" > daily_jobs.csv
           
           while IFS=: read -r source slug || [ -n "$source" ]; do
             [[ "$source" =~ ^#.*$ || -z "$source" ]] && continue
             
             echo "Scraping $slug from $source..."
-            node $CLI_PATH search -s $source --company-slug $slug -f csv -o temp.csv
+            node $CLI_PATH search -s $source --company-slug $slug -f csv -o temp.csv --timeout 30000
             
-            # Call your external Python script - much safer than inline code!
             if [ -f "temp.csv" ]; then
               python clean_jobs.py
               rm temp.csv
