@@ -1,0 +1,30 @@
+name: Daily Job Scrape
+on:
+  schedule:
+    - cron: '0 9 * * *' # Runs every day at 9:00 AM
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install ever-jobs
+        run: npm install -g @ever-co/ever-jobs-cli
+
+      - name: Run Scraper
+        run: |
+          # This reads your txt file and runs the scraper for each
+          cat my_companies.txt | xargs -I {} ever-jobs greenhouse {} --format csv >> daily_jobs.csv
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "JobBot"
+          git config --global user.email "bot@github.com"
+          git add daily_jobs.csv
+          git commit -m "Update daily job list"
+          git push
