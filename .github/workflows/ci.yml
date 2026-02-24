@@ -29,35 +29,30 @@ jobs:
             CLI_PATH="dist/apps/cli/main.js"
           fi
 
-          # Start with a fresh, clean header
           echo "Site,Title,Company,Location,URL,Date" > daily_jobs.csv
           
           while IFS=: read -r source slug || [ -n "$source" ]; do
             [[ "$source" =~ ^#.*$ || -z "$source" ]] && continue
             
             echo "Scraping $slug from $source..."
-            
-            # Run the scraper
             node $CLI_PATH search -s $source --company-slug $slug -f csv -o temp.csv
             
             if [ -f "temp.csv" ]; then
-              echo "Cleaning $slug data with Python..."
-              # This Python script safely extracts only the columns we need,
-              # handling internal commas and newlines correctly.
-              python3 -c "
+              # Using the | symbol allows us to write Python without quote errors
+              python3 - <<'EOF'
 import csv
-fields_to_keep = ['site', 'title', 'companyName', 'location', 'jobUrl', 'datePosted']
+fields = ['site', 'title', 'companyName', 'location', 'jobUrl', 'datePosted']
 try:
     with open('temp.csv', 'r', encoding='utf-8') as f_in:
         reader = csv.DictReader(f_in)
         with open('daily_jobs.csv', 'a', encoding='utf-8', newline='') as f_out:
             writer = csv.writer(f_out)
             for row in reader:
-                # Extract only specific fields and write them as a single clean row
-                writer.writerow([row.get(f, '').strip() for f in fields_to_keep])
+                # This only pulls the clean columns and ignores the description
+                writer.writerow([row.get(f, '').strip() for f in fields])
 except Exception as e:
-    print(f'Error processing CSV: {e}')
-"
+    print(f"Error: {e}")
+EOF
               rm temp.csv
             fi
           done < my_companies.txt
