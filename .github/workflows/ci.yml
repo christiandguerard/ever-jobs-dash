@@ -11,6 +11,11 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -29,7 +34,8 @@ jobs:
             CLI_PATH="dist/apps/cli/main.js"
           fi
 
-          echo "Site,Title,Company,Location,URL,Date" > daily_jobs.csv
+          # Clear old data
+          rm -f daily_jobs.csv
           
           while IFS=: read -r source slug || [ -n "$source" ]; do
             [[ "$source" =~ ^#.*$ || -z "$source" ]] && continue
@@ -37,22 +43,9 @@ jobs:
             echo "Scraping $slug from $source..."
             node $CLI_PATH search -s $source --company-slug $slug -f csv -o temp.csv
             
+            # Call your external Python script - much safer than inline code!
             if [ -f "temp.csv" ]; then
-              # Using the | symbol allows us to write Python without quote errors
-              python3 - <<'EOF'
-import csv
-fields = ['site', 'title', 'companyName', 'location', 'jobUrl', 'datePosted']
-try:
-    with open('temp.csv', 'r', encoding='utf-8') as f_in:
-        reader = csv.DictReader(f_in)
-        with open('daily_jobs.csv', 'a', encoding='utf-8', newline='') as f_out:
-            writer = csv.writer(f_out)
-            for row in reader:
-                # This only pulls the clean columns and ignores the description
-                writer.writerow([row.get(f, '').strip() for f in fields])
-except Exception as e:
-    print(f"Error: {e}")
-EOF
+              python clean_jobs.py
               rm temp.csv
             fi
           done < my_companies.txt
@@ -62,5 +55,5 @@ EOF
           git config --global user.name "JobBot"
           git config --global user.email "bot@github.com"
           git add daily_jobs.csv
-          git commit -m "Update clean job dashboard: $(date)" || echo "No changes to commit"
+          git commit -m "Update job dashboard: $(date)" || echo "No changes"
           git push
