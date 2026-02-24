@@ -1,11 +1,14 @@
-# SmartRecruiters
-smartrecruiters:rodeofx
-smartrecruiters:ubisoft
-
-# Recruitee
-recruitee:framestore
-recruitee:mpc
-
-# Greenhouse
-greenhouse:notion
-greenhouse:airbnb
+greenhouse:cloudchamberen
+greenhouse:2k
+greenhouse:highdive
+lever:unionvfx
+lever:outpostvfx
+lever:digitaldomain
+smartrecruiters:Videotron
+smartrecruiters:RodeoFX
+workable:sideinc
+workday:autodesk
+workday:ea
+workday:hasbro
+bamboohr:compulsiongames
+bamboohr:barnstormvfx
