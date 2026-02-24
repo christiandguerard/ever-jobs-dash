@@ -1,8 +1,8 @@
 name: Daily Job Scrape
 on:
   schedule:
-    - cron: '0 9 * * *' # 9:00 AM UTC
-  workflow_dispatch: # Allows you to run it manually to test
+    - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -24,13 +24,12 @@ jobs:
 
       - name: Run Scraper Loop
         run: |
-          # Detect the correct CLI path
           CLI_PATH="dist/cli/main.js"
           if [ -f "dist/apps/cli/main.js" ]; then
             CLI_PATH="dist/apps/cli/main.js"
           fi
 
-          # Create a fresh CSV with a clean header
+          # Start with a fresh, clean header
           echo "Site,Title,Company,Location,URL,Date" > daily_jobs.csv
           
           while IFS=: read -r source slug || [ -n "$source" ]; do
@@ -38,13 +37,27 @@ jobs:
             
             echo "Scraping $slug from $source..."
             
-            # Run the search, outputting to a temporary file
+            # Run the scraper
             node $CLI_PATH search -s $source --company-slug $slug -f csv -o temp.csv
             
             if [ -f "temp.csv" ]; then
-              # CLEANUP LOGIC: Use awk to select only columns 2 through 7.
-              # This removes column 14 (the description) which contains the line breaks that broke your CSV.
-              tail -n +2 temp.csv | awk -F',' '{print $2","$3","$4","$5","$6","$7}' >> daily_jobs.csv
+              echo "Cleaning $slug data with Python..."
+              # This Python script safely extracts only the columns we need,
+              # handling internal commas and newlines correctly.
+              python3 -c "
+import csv
+fields_to_keep = ['site', 'title', 'companyName', 'location', 'jobUrl', 'datePosted']
+try:
+    with open('temp.csv', 'r', encoding='utf-8') as f_in:
+        reader = csv.DictReader(f_in)
+        with open('daily_jobs.csv', 'a', encoding='utf-8', newline='') as f_out:
+            writer = csv.writer(f_out)
+            for row in reader:
+                # Extract only specific fields and write them as a single clean row
+                writer.writerow([row.get(f, '').strip() for f in fields_to_keep])
+except Exception as e:
+    print(f'Error processing CSV: {e}')
+"
               rm temp.csv
             fi
           done < my_companies.txt
@@ -54,5 +67,5 @@ jobs:
           git config --global user.name "JobBot"
           git config --global user.email "bot@github.com"
           git add daily_jobs.csv
-          git commit -m "Update clean job list: $(date)" || echo "No changes to commit"
+          git commit -m "Update clean job dashboard: $(date)" || echo "No changes to commit"
           git push
