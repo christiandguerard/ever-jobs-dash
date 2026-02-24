@@ -3,9 +3,9 @@ greenhouse:2k
 greenhouse:highdive
 greenhouse:epicgames
 greenhouse:unity3d
-greenhouse:nfb
-lever:unionvfx
-lever:outpostvfx
+greenhouse:onfnfb
+lever:unionvfx-2
+lever:outpost-vfx
 lever:digitaldomain
 smartrecruiters:rodeofx
 smartrecruiters:Videotron
@@ -18,8 +18,8 @@ workday:cirquedusoleil
 bamboohr:compulsiongames
 bamboohr:barnstormvfx
 workable:sideinc
-workable:cinesite-vfx
+workable:cinesite
 workable:eidosmontreal
 recruitee:framestore
-recruitee:momentfactory
+recruitee:moment-factory
 jobvite:imageworks
