@@ -41,17 +41,17 @@ greenhouse,Data Science Intern,Epic Games,"Cary,North Carolina,United States",ht
 greenhouse,Communications Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6152496004?gh_jid=6152496004,2026-09-14
 greenhouse,Backend Services Programmer Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004,2026-09-10
 greenhouse,"Director, Player Marketing",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6149331004?gh_jid=6149331004,2026-08-21
-greenhouse,AI Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123842004?gh_jid=6123842004,2026-07-25
 greenhouse,AI Programmer,Epic Games,"Porto Alegre,Rio Grande do Sul,Brazil",https://epicgames.com/careers/jobs/6123844004?gh_jid=6123844004,2026-07-25
-greenhouse,Build Programmer,Epic Games,"Porto Alegre,Rio Grande do Sul,Brazil",https://epicgames.com/careers/jobs/6123847004?gh_jid=6123847004,2026-07-25
+greenhouse,AI Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123842004?gh_jid=6123842004,2026-07-25
 greenhouse,Build Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123848004?gh_jid=6123848004,2026-07-25
+greenhouse,Build Programmer,Epic Games,"Porto Alegre,Rio Grande do Sul,Brazil",https://epicgames.com/careers/jobs/6123847004?gh_jid=6123847004,2026-07-25
 greenhouse,AI Programmer,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004,2026-07-23
 greenhouse,Build Programmer,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6020369004?gh_jid=6020369004,2026-07-23
 greenhouse,Animation Systems Programmer,Epic Games,"Larkspur,California,United States",https://epicgames.com/careers/jobs/6103058004?gh_jid=6103058004,2026-06-26
-greenhouse,"Director, Education & Training",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6100018004?gh_jid=6100018004,2026-06-24
 greenhouse,"Director, Education & Training",Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6100016004?gh_jid=6100016004,2026-06-24
-greenhouse,Cinematics Director,Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/5993483004?gh_jid=5993483004,2026-06-08
+greenhouse,"Director, Education & Training",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6100018004?gh_jid=6100018004,2026-06-24
 greenhouse,Cinematics Director,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/5993481004?gh_jid=5993481004,2026-06-08
+greenhouse,Cinematics Director,Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/5993483004?gh_jid=5993483004,2026-06-08
 smartrecruiters,Superviseur.e éclairagiste - PARIS,Rodeo FX,"Paris, IDF, fr",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151419289,2026-09-23
 smartrecruiters,Regional Head Of Technology (Rodeo FX India),Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151127529,2026-09-22
 smartrecruiters,Producteur.trice VFX - Sénior - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151118749,2026-09-22
@@ -67,6 +67,8 @@ smartrecruiters,FX Artist - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smar
 smartrecruiters,Animation Artist - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000150437730,2026-09-18
 smartrecruiters,Compositing Artist - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000150435899,2026-09-18
 smartrecruiters,Compositing Supervisor,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000150435360,2026-09-18
+smartrecruiters,Gestionnaire d'équipe en magasin,Videotron,"Beloeil, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151917109,2026-09-25
+smartrecruiters,Directeur·rice développement des affaires,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151905319,2026-09-25
 smartrecruiters,"Opérateur·rice, Équipement mobile",Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151892654,2026-09-25
 smartrecruiters,Chargé·e de projets fidélisation base client·e,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151862400,2026-09-25
 smartrecruiters,"Analyste/Ingénieur·e principal·e déploiement, ingénierie solution d'accès sans fil",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151847014,2026-09-25
@@ -80,8 +82,6 @@ smartrecruiters,"Gestionnaire principal·e, Dimensionnement et Performance",Vide
 smartrecruiters,Comptable,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151654566,2026-09-24
 smartrecruiters,"Analyste / Ingénieur·e Déploiement, Ingénierie Réseaux Salles de serveurs",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151625789,2026-09-24
 smartrecruiters,Gestionnaire adjoint·e en magasin,Videotron,"Saguenay, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151610219,2026-09-24
-smartrecruiters,Adjoint·e de direction,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151460329,2026-09-23
-smartrecruiters,Électricien·ne,Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151400790,2026-09-23
 smartrecruiters,Superviseur.e éclairagiste - PARIS,Rodeo FX,"Paris, IDF, fr",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151419289,2026-09-23
 smartrecruiters,Regional Head Of Technology (Rodeo FX India),Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151127529,2026-09-22
 smartrecruiters,Producteur.trice VFX - Sénior - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151118749,2026-09-22
@@ -106,7 +106,6 @@ bamboohr,Artiste en Rigging - Rigging Artist (MTL),barnstormvfx,"Montreal, Quebe
 bamboohr,Artiste principal(e) de créatures - Lead Creature Artist - QC,barnstormvfx,"Montreal, Quebec",https://barnstormvfx.bamboohr.com/careers/176,
 bamboohr,"LOS ANGELES, USA - Compositor - MID/SR - Expression of Interest",barnstormvfx,"Burbank, California",https://barnstormvfx.bamboohr.com/careers/192,
 bamboohr,Environment Generalist (VAN),barnstormvfx,"Vancouver, British Columbia",https://barnstormvfx.bamboohr.com/careers/204,
-bamboohr,Staff Accountant - LA,barnstormvfx,"Burbank, California",https://barnstormvfx.bamboohr.com/careers/207,
 bamboohr,Comptable - Accountant,barnstormvfx,"Montreal, Quebec",https://barnstormvfx.bamboohr.com/careers/209,
 workable,3D Artist,sideinc,United States,https://apply.workable.com/j/48DE1748D2,2026-08-27
 workable,3D Character Artist - Talent Pool (EU),sideinc,"London, England, United Kingdom",https://apply.workable.com/j/DB9081AA14,2025-08-20
