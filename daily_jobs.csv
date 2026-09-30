@@ -14,6 +14,7 @@ greenhouse,Senior Graphics Engineer,Cloud Chamber,"Novato, California, United St
 greenhouse,Senior Graphics Programmer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7720901003,2026-05-04
 greenhouse,Gameplay Engineer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7660289003,2026-03-10
 greenhouse,Gameplay Engineer,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/7655936003,2026-03-10
+greenhouse,Director of Data Engineering,2K,"Dublin, Ireland",https://job-boards.greenhouse.io/2k/jobs/8009235003,2026-09-30
 greenhouse,"Director, Program Delivery",2K,"Austin, Texas, United States",https://job-boards.greenhouse.io/2k/jobs/7999672003,2026-09-29
 greenhouse,"Associate Manager, Community Marketing",2K,"Los Angeles, California, United States",https://job-boards.greenhouse.io/2k/jobs/7994802003,2026-09-23
 greenhouse,Backend Architect,2K,"Bangalore, Karnataka, India",https://job-boards.greenhouse.io/2k/jobs/7997350003,2026-09-22
@@ -26,7 +27,6 @@ greenhouse,Associate Producer,2K,"Montréal, Quebec, Canada",https://job-boards.
 greenhouse,DevOps Engineer,2K,"Bangalore, Karnataka, India",https://job-boards.greenhouse.io/2k/jobs/7865971003,2026-08-17
 greenhouse,"Associate Creative Producer, Core",2K,"Los Angeles, California, United States; Novato, California, United States",https://job-boards.greenhouse.io/2k/jobs/7812741003,2026-08-05
 greenhouse,Data Platform Engineer,2K,"Bangalore, Karnataka, India",https://job-boards.greenhouse.io/2k/jobs/7778400003,2026-06-19
-greenhouse,Director of Data Engineering,2K,"Dublin, Ireland",https://job-boards.greenhouse.io/2k/jobs/7762602003,2026-06-09
 greenhouse,DevOps Engineer,2K,"Austin, Texas, United States",https://job-boards.greenhouse.io/2k/jobs/7762608003,2026-06-04
 greenhouse,Data Quality Engineer,2K,"Bangalore, Karnataka, India",https://job-boards.greenhouse.io/2k/jobs/7728471003,2026-05-13
 greenhouse,Chef d'équipe - Artiste de niveaux / Lead Level Artist,Highdive,Montreal,https://job-boards.greenhouse.io/highdive/jobs/5209337007,2026-08-11
@@ -41,8 +41,8 @@ greenhouse,Data Science Intern,Epic Games,"Cary,North Carolina,United States",ht
 greenhouse,Communications Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6152496004?gh_jid=6152496004,2026-09-14
 greenhouse,Backend Services Programmer Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004,2026-09-10
 greenhouse,"Director, Player Marketing",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6149331004?gh_jid=6149331004,2026-08-21
-greenhouse,AI Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123842004?gh_jid=6123842004,2026-07-25
 greenhouse,AI Programmer,Epic Games,"Porto Alegre,Rio Grande do Sul,Brazil",https://epicgames.com/careers/jobs/6123844004?gh_jid=6123844004,2026-07-25
+greenhouse,AI Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123842004?gh_jid=6123842004,2026-07-25
 greenhouse,Build Programmer,Epic Games,"Porto Alegre,Rio Grande do Sul,Brazil",https://epicgames.com/careers/jobs/6123847004?gh_jid=6123847004,2026-07-25
 greenhouse,Build Programmer,Epic Games,"Montreal,Quebec,Canada",https://epicgames.com/careers/jobs/6123848004?gh_jid=6123848004,2026-07-25
 greenhouse,AI Programmer,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004,2026-07-23
@@ -52,6 +52,10 @@ greenhouse,"Director, Education & Training",Epic Games,"Cary,North Carolina,Unit
 greenhouse,"Director, Education & Training",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6100018004?gh_jid=6100018004,2026-06-24
 greenhouse,Cinematics Director,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/5993481004?gh_jid=5993481004,2026-06-08
 greenhouse,Cinematics Director,Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/5993483004?gh_jid=5993483004,2026-06-08
+smartrecruiters,Artiste senior en modélisation 3D - Position Permanente,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152706559,2026-09-30
+smartrecruiters,Senior Modeling Artist - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152706399,2026-09-30
+smartrecruiters,Ingénieur.e de platforme senior,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152683830,2026-09-30
+smartrecruiters,Senior Platform Engineer,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152683900,2026-09-30
 smartrecruiters,Coordonnateur.trice de production VFX Senior,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152451689,2026-09-29
 smartrecruiters,Senior VFX Production Coordinator,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152451119,2026-09-29
 smartrecruiters,VFX Production Assistant IO - Permanent contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152450109,2026-09-29
@@ -63,10 +67,7 @@ smartrecruiters,VFX Project Manager - Permanent role,Rodeo FX,"Montreal, QC, ca"
 smartrecruiters,Responsable de projet VFX - Contrat Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000152247679,2026-09-28
 smartrecruiters,Superviseur.e éclairagiste - PARIS,Rodeo FX,"Paris, IDF, fr",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151419289,2026-09-23
 smartrecruiters,Producteur.trice VFX - Sénior - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151118749,2026-09-22
-smartrecruiters,VFX Producer - Senior - Permanent role,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151118499,2026-09-22
-smartrecruiters,Head of Production Rodeo FX India,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151090139,2026-09-22
-smartrecruiters,VFX Project Manager - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151087300,2026-09-22
-smartrecruiters,VFX Production Coordinator - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000151087379,2026-09-22
+smartrecruiters,Stagiaire informatique (Québec),Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000152721538,2026-09-30
 smartrecruiters,Journaliste multifonctions,Videotron,"Sherbrooke, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000152507839,2026-09-29
 smartrecruiters,Technicien·ne EVS  S-26-4541,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000152502919,2026-09-29
 smartrecruiters,Mécanicien·ne de machinerie fixe,Videotron,"Québec, Québec, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000152473479,2026-09-29
@@ -81,7 +82,10 @@ smartrecruiters,Directeur·rice développement des affaires,Videotron,"Montréal
 smartrecruiters,Coordonnateur·rice aux événements,Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000152160476,2026-09-28
 smartrecruiters,Gestionnaire d'équipe en magasin,Videotron,"Beloeil, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151917109,2026-09-25
 smartrecruiters,"Opérateur·rice, Équipement mobile",Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151892654,2026-09-25
-smartrecruiters,Chargé·e de projets fidélisation base client·e,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000151862400,2026-09-25
+smartrecruiters,Artiste senior en modélisation 3D - Position Permanente,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152706559,2026-09-30
+smartrecruiters,Senior Modeling Artist - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152706399,2026-09-30
+smartrecruiters,Ingénieur.e de platforme senior,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152683830,2026-09-30
+smartrecruiters,Senior Platform Engineer,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152683900,2026-09-30
 smartrecruiters,Coordonnateur.trice de production VFX Senior,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152451689,2026-09-29
 smartrecruiters,Senior VFX Production Coordinator,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152451119,2026-09-29
 smartrecruiters,VFX Production Assistant IO - Permanent contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152450109,2026-09-29
@@ -93,10 +97,6 @@ smartrecruiters,VFX Project Manager - Permanent role,Rodeo FX,"Montreal, QC, ca"
 smartrecruiters,Responsable de projet VFX - Contrat Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000152247679,2026-09-28
 smartrecruiters,Superviseur.e éclairagiste - PARIS,Rodeo FX,"Paris, IDF, fr",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151419289,2026-09-23
 smartrecruiters,Producteur.trice VFX - Sénior - Permanent,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151118749,2026-09-22
-smartrecruiters,VFX Producer - Senior - Permanent role,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151118499,2026-09-22
-smartrecruiters,Head of Production Rodeo FX India,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151090139,2026-09-22
-smartrecruiters,VFX Project Manager - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151087300,2026-09-22
-smartrecruiters,VFX Production Coordinator - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000151087379,2026-09-22
 bamboohr,"VANCOUVER, BC - Compositor - MID/SR - Expression of Interest",barnstormvfx,"Vancouver, British Columbia",https://barnstormvfx.bamboohr.com/careers/56,
 bamboohr,MONTRÉAL (QC) – Artiste en compositing - Compositing Artist,barnstormvfx,"Montreal, Quebec",https://barnstormvfx.bamboohr.com/careers/66,
 bamboohr,ANY LOCATION - General Application - Expression of Interest,barnstormvfx,,https://barnstormvfx.bamboohr.com/careers/114,
@@ -121,6 +121,7 @@ workable,3D Character Artist - Talent Pool (APAC),sideinc,"Bengaluru, Karnataka,
 workable,3D Character Artist - Talent Pool (APAC),sideinc,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",https://apply.workable.com/j/10A389D89B,2025-04-14
 workable,3D Character Artist - Talent Pool (APAC),sideinc,"Taipei, Taipei City, Taiwan",https://apply.workable.com/j/10A389D89B,2025-04-14
 workable,3D Character Artist - Talent Pool (APAC),sideinc,"Auckland, Auckland, New Zealand",https://apply.workable.com/j/10A389D89B,2025-04-14
+recruitee,Compositor (Freelancer),framestore,"Mumbai, India",https://framestore.recruitee.com/o/compositor-freelancer/compositor-freelancer,2026-09-30
 recruitee,Senior Cloud Platform DevOps Engineer,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/snr-platform-devops/snr-platform-devops,2026-09-29
 recruitee,Senior Layout TD,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/senior-layout-td-3/senior-layout-td-3,2026-09-24
 recruitee,Animation Supervisor,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/animation-supervisor-3/animation-supervisor-3,2026-09-18
@@ -132,7 +133,6 @@ recruitee,Technical Animator (Expression of Interest),framestore,"London, United
 recruitee,Freelance: Lead FX Technical Director,framestore,"New York, United States",https://framestore.recruitee.com/o/freelance-lead-fx-technical-director/freelance-lead-fx-technical-director,2026-09-08
 recruitee,Systems Support Administrator,framestore,"New York, United States",https://framestore.recruitee.com/o/systems-support-administrator-2026/systems-support-administrator-2026,2026-09-03
 recruitee,Senior Creature FX TD,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/senior-creature-fx-td-4/senior-creature-fx-td-4,2026-09-01
-recruitee,Lighting TD - Junior,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/lighting-td-junior/lighting-td-junior,2026-08-26
 recruitee,Social Media Editor / Creator,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/social-media-editor-creator/social-media-editor-creator,2026-08-25
 recruitee,Game Environment Artist (Expression of Interest),framestore,"London, United Kingdom",https://framestore.recruitee.com/o/game-environment-artist-expression-of-interest/game-environment-artist-expression-of-interest,2026-08-25
 recruitee,Compositor - Mid/Senior,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/compositor-midsenior/compositor-midsenior,2026-08-25
