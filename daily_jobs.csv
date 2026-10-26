@@ -75,13 +75,13 @@ smartrecruiters,Gestionnaire d'équipe détail,Videotron,"Pointe-Claire, QC, ca"
 smartrecruiters,Gestionnaire d'équipe en magasin,Videotron,"Pointe-Claire, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157522679,2026-10-23
 smartrecruiters,Coordonnateur·trice de production et des opérations,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157469422,2026-10-23
 smartrecruiters,"Gestionnaire des opérations, Cinéma Impérial",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157466279,2026-10-23
-smartrecruiters,"Directeur·rice général·e, Cinéma Impérial",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157465099,2026-10-23
 smartrecruiters,Analyste planification Qualité Technique,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157459050,2026-10-23
 smartrecruiters,"Agent·e de ventes, Sorel-Tracy",Videotron,"Sorel-Tracy, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157219941,2026-10-22
 smartrecruiters,Gestionnaire de projet - Télécommunications | Services Affaires,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157191980,2026-10-22
 smartrecruiters,"chargé·e de projets, marketing",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157189519,2026-10-22
 smartrecruiters,Adjoint·e de direction,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157180629,2026-10-22
 smartrecruiters,"Technicien·ne, Paie",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000157144159,2026-10-22
+smartrecruiters,Étudiant·e en comptabilité,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000156898709,2026-10-21
 smartrecruiters,Pigiste artiste Animateur.trice Senior,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157206179,2026-10-22
 smartrecruiters,FX Artist - Mid and Senior - Multiple Positions,Rodeo FX,"Toronto, ON, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157204897,2026-10-22
 smartrecruiters,Artiste FX - Senior et intermédiaire - Multiple positions,Rodeo FX,"Montreal and Quebec City, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157201791,2026-10-22
@@ -129,7 +129,6 @@ recruitee,2D Lead/ 2D Supervisor,framestore,"London, United Kingdom",https://fra
 recruitee,Freelance: VFX Production Coordinator,framestore,"New York, United States",https://framestore.recruitee.com/o/freelance-vfx-production-coordinator-2026/freelance-vfx-production-coordinator-2026,2026-10-14
 recruitee,Bidding Producer,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/bidding-producer-3/bidding-producer-3,2026-10-12
 recruitee,Compositor (Freelancer),framestore,"Mumbai, India",https://framestore.recruitee.com/o/compositor-freelancer/compositor-freelancer,2026-09-30
-recruitee,Systems Support Administrator,framestore,"New York, United States",https://framestore.recruitee.com/o/systems-support-administrator-2026/systems-support-administrator-2026,2026-09-03
 recruitee,FX TD - Mid/Senior,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/fx-td-midsenior/fx-td-midsenior,2026-08-26
 recruitee,Compositor - Mid/Senior,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/compositor-midsenior/compositor-midsenior,2026-08-25
 recruitee,Blender Generalist - Visual Development Artist,framestore,"Montreal, Canada",https://framestore.recruitee.com/o/generaliste-blender-artiste-au-development-visuel-blender-generalist-visual-development-artist/generaliste-blender-artiste-au-development-visuel-blender-generalist-visual-development-artist,2026-08-21
@@ -137,3 +136,4 @@ recruitee,Blender Generalist,framestore,"London, United Kingdom",https://framest
 recruitee,Lighting Supervisor,framestore,"Mumbai, India",https://framestore.recruitee.com/o/lighting-supervisor/lighting-supervisor,2026-04-15
 recruitee,Compositor,framestore,"Montreal, Canada",https://framestore.recruitee.com/o/compositeurrice-compositor/compositeurrice-compositor,2026-04-09
 recruitee,Expression of Interest 2026 - Melbourne,framestore,"Melbourne, Australia",https://framestore.recruitee.com/o/expression-of-interest-2026-melbourne/expression-of-interest-2026-melbourne,2026-02-09
+recruitee,Production Coordinator - Immersive,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/prod-coord-immersive/prod-coord-immersive,2025-12-18
