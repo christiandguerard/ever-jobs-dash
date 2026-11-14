@@ -1,10 +1,9 @@
 Site,Title,Company,Location,URL,Date
-greenhouse,Senior Writer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/8046863003,2026-10-30
 greenhouse,Senior Writer,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/8046865003,2026-10-30
+greenhouse,Senior Writer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/8046863003,2026-10-30
 greenhouse,Senior Technical Animator,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/8046880003,2026-10-29
 greenhouse,Senior Technical Animator,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/8046882003,2026-10-29
 greenhouse,General Interest Application,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/8041833003,2026-10-22
-greenhouse,Associate Producer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7865973003,2026-08-17
 greenhouse,Lead Lighting Artist,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7856224003,2026-08-17
 greenhouse,Lead Lighting Artist,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/7856222003,2026-08-14
 greenhouse,Lead Level Artist,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/7812708003,2026-08-13
@@ -13,6 +12,7 @@ greenhouse,Senior Graphics Engineer,Cloud Chamber,"Novato, California, United St
 greenhouse,Senior Graphics Programmer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7720901003,2026-05-04
 greenhouse,Gameplay Engineer,Cloud Chamber,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/cloudchamberen/jobs/7660289003,2026-03-10
 greenhouse,Gameplay Engineer,Cloud Chamber,"Novato, California, United States",https://job-boards.greenhouse.io/cloudchamberen/jobs/7655936003,2026-03-10
+greenhouse,Art Director,2K,"San Mateo, California, United States",https://job-boards.greenhouse.io/2k/jobs/8204081003,2026-11-14
 greenhouse,Associate Art Director,2K,"Burnaby, British Columbia, Canada",https://job-boards.greenhouse.io/2k/jobs/8059577003,2026-11-12
 greenhouse,"COORDONNATEUR·RICE DE LOCALISATION - CHINOIS TRADITIONNEL/Localization Coordinator, Traditional Chinese",2K,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/2k/jobs/8181268003,2026-11-05
 greenhouse,"Coordonnateur·rice de localisation (chinois simplifié)/Localization Coordinator, Simplified Chinese",2K,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/2k/jobs/8181262003,2026-11-04
@@ -24,7 +24,6 @@ greenhouse,"Analyste en assurance qualité linguistique (LQA) espagnol latino-am
 greenhouse,Analyste en assurance qualité linguistique (LQA) arabe /  Localization Quality Assurance Analyst - LQA Arabic,2K,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/2k/jobs/7964894003,2026-09-04
 greenhouse,"Associate Marketing Manager, Korea",2K,"Seoul, South Korea",https://job-boards.greenhouse.io/2k/jobs/7801198003,2026-09-03
 greenhouse,"Associate Manager, Content Localization",2K,"Tokyo, Chiyoda, Japan",https://job-boards.greenhouse.io/2k/jobs/7772145003,2026-08-20
-greenhouse,Associate Producer,2K,"Montréal, Quebec, Canada",https://job-boards.greenhouse.io/2k/jobs/7865976003,2026-08-17
 greenhouse,DevOps Engineer,2K,"Austin, Texas, United States",https://job-boards.greenhouse.io/2k/jobs/7762608003,2026-06-04
 greenhouse,Data Quality Engineer,2K,"Bangalore, Karnataka, India",https://job-boards.greenhouse.io/2k/jobs/7728471003,2026-05-13
 greenhouse,Artiste technique sénior·e UI / Senior UI Tech Artist,2K,"Quebec, Canada",https://job-boards.greenhouse.io/2k/jobs/7731213003,2026-05-11
@@ -42,8 +41,8 @@ greenhouse,Chef d'équipe - Artiste de niveau / Lead Level Artist,Highdive,Toron
 greenhouse,AI Programmer Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004,2026-11-09
 greenhouse,Counsel (Regulatory),Epic Games,"London,England,United Kingdom",https://epicgames.com/careers/jobs/6230434004?gh_jid=6230434004,2026-11-03
 greenhouse,Counsel (Regulatory),Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6242379004?gh_jid=6242379004,2026-11-03
-greenhouse,"Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004,2026-10-28
 greenhouse,"Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",Epic Games,"London,England,United Kingdom",https://epicgames.com/careers/jobs/6235184004?gh_jid=6235184004,2026-10-28
+greenhouse,"Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004,2026-10-28
 greenhouse,Engine Programmer Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004,2026-09-22
 greenhouse,Data Science Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004,2026-09-21
 greenhouse,Communications Intern,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6152496004?gh_jid=6152496004,2026-09-14
@@ -51,10 +50,11 @@ greenhouse,"Director, Player Marketing",Epic Games,"BLANK,BLANK,Multiple Locatio
 greenhouse,"Director, Player Marketing",Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6148974004?gh_jid=6148974004,2026-08-21
 greenhouse,Cinematics Director,Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/5993481004?gh_jid=5993481004,2026-06-08
 greenhouse,Cinematics Director,Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/5993483004?gh_jid=5993483004,2026-06-08
+greenhouse,"Director, Product Management (Discovery, Search, Personalization)",Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6013333004?gh_jid=6013333004,2026-06-03
 greenhouse,"Director, Product Management (Discovery, Search, Personalization)",Epic Games,"BLANK,BLANK,Multiple Locations",https://epicgames.com/careers/jobs/6013335004?gh_jid=6013335004,2026-06-03
 greenhouse,"Director, Product Management (Discovery, Search, Personalization)",Epic Games,"Vancouver,British Columbia,Canada",https://epicgames.com/careers/jobs/6013462004?gh_jid=6013462004,2026-06-03
-greenhouse,"Director, Product Management (Discovery, Search, Personalization)",Epic Games,"Cary,North Carolina,United States",https://epicgames.com/careers/jobs/6013333004?gh_jid=6013333004,2026-06-03
-smartrecruiters,Senior Maya Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161563259,2026-11-13
+smartrecruiters,Senior Maya Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161564940,2026-11-13
+smartrecruiters,Directeur Technique Maya Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161564259,2026-11-13
 smartrecruiters,Directeur Technique Katana Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161561439,2026-11-13
 smartrecruiters,Senior Katana Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161557124,2026-11-13
 smartrecruiters,FX Artist - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161423999,2026-11-13
@@ -68,7 +68,6 @@ smartrecruiters,Artiste principal.e de composition d'images,Rodeo FX,"Montreal, 
 smartrecruiters,Compositing Lead,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000158048209,2026-10-27
 smartrecruiters,Crowd Simulation Supervisor,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000157899079,2026-10-26
 smartrecruiters,Superviseur.e de composition d’images,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000157898193,2026-10-26
-smartrecruiters,Compositing Supervisor,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000157898089,2026-10-26
 smartrecruiters,"Conseiller·ère juridique principal·e, Litige civil",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000161545408,2026-11-13
 smartrecruiters,"Gestionnaire expérience client, Centre Vidéotron",Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000161390017,2026-11-12
 smartrecruiters,"Étudiant·e marketing - communications, marque et loyauté",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000161174496,2026-11-11
@@ -84,7 +83,8 @@ smartrecruiters,Gestionnaire principal·e parc de véhicules,Videotron,"Montréa
 smartrecruiters,Technicien·ne Installation de Service,Videotron,"Amos, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000160687159,2026-11-09
 smartrecruiters,Opérateur·rice à la diffusion S-26-4548,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000160324634,2026-11-07
 smartrecruiters,"Conseiller·ère, Acquisition de talents",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000160314649,2026-11-07
-smartrecruiters,Senior Maya Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161563259,2026-11-13
+smartrecruiters,Senior Maya Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161564940,2026-11-13
+smartrecruiters,Directeur Technique Maya Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161564259,2026-11-13
 smartrecruiters,Directeur Technique Katana Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161561439,2026-11-13
 smartrecruiters,Senior Katana Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161557124,2026-11-13
 smartrecruiters,FX Artist - Senior,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000161423999,2026-11-13
@@ -98,7 +98,6 @@ smartrecruiters,Artiste principal.e de composition d'images,Rodeo FX,"Montreal, 
 smartrecruiters,Compositing Lead,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000158048209,2026-10-27
 smartrecruiters,Crowd Simulation Supervisor,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157899079,2026-10-26
 smartrecruiters,Superviseur.e de composition d’images,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157898193,2026-10-26
-smartrecruiters,Compositing Supervisor,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000157898089,2026-10-26
 bamboohr,"VANCOUVER, BC - Compositor - MID/SR - Expression of Interest",barnstormvfx,"Vancouver, British Columbia",https://barnstormvfx.bamboohr.com/careers/56,
 bamboohr,MONTRÉAL (QC) – Artiste en compositing - Compositing Artist,barnstormvfx,"Montreal, Quebec",https://barnstormvfx.bamboohr.com/careers/66,
 bamboohr,ANY LOCATION - General Application - Expression of Interest,barnstormvfx,,https://barnstormvfx.bamboohr.com/careers/114,
