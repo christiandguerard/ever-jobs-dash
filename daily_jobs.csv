@@ -70,6 +70,8 @@ smartrecruiters,Asset Supervisor,Rodeo FX,"Paris, IDF, fr",https://api.smartrecr
 smartrecruiters,Senior Maya Technical Director (TD) - 6 Month Contract,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161564940,2026-11-13
 smartrecruiters,Directeur Technique Maya Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161564259,2026-11-13
 smartrecruiters,Directeur Technique Katana Senior - Contrat de 6 mois,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/rodeofx/postings/744000161561439,2026-11-13
+smartrecruiters,"Conseiller·ère principal·e, régime de retraite",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000164080824,2026-11-27
+smartrecruiters,Mécanicien·ne de machinerie fixe,Videotron,"Québec, Québec, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000164046120,2026-11-27
 smartrecruiters,"Conseiller·ère, Marketing relationnel",Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163923079,2026-11-26
 smartrecruiters,"Conseiller·ère, Marketing relationnel",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163922590,2026-11-26
 smartrecruiters,Préposé·e service à la clientèle,Videotron,"Mirabel, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163911999,2026-11-26
@@ -83,8 +85,6 @@ smartrecruiters,Agent·e à la billetterie,Videotron,"Québec, QC, ca",https://a
 smartrecruiters,Technicien·ne multifonctions S-26-4550,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163523370,2026-11-24
 smartrecruiters,Producteur·rice de contenus à valeur ajoutée,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163487729,2026-11-24
 smartrecruiters,Stage informatique au Centre Vidéotron (Québec seulement),Videotron,"Québec, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163474352,2026-11-24
-smartrecruiters,Stagiaire informatique,Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163475630,2026-11-24
-smartrecruiters,"Conseiller·ère, Acquisition de talents",Videotron,"Montréal, QC, ca",https://api.smartrecruiters.com/v1/companies/Videotron/postings/744000163451158,2026-11-24
 smartrecruiters,Artiste FX - Manifestation d’intérêt - Rodeo FX,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000163759819,2026-11-25
 smartrecruiters,FX Artist - Expression of interest - Rodeo FX,Rodeo FX,"Montreal, QC, ca",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000163759739,2026-11-25
 smartrecruiters,Human Resources Department Manager,Rodeo FX,"Bengaluru, KA, in",https://api.smartrecruiters.com/v1/companies/RodeoFX/postings/744000163756260,2026-11-25
@@ -108,21 +108,6 @@ bamboohr,"GEORGIA, USA - Compositor -MID/SR - Expression of Interest",barnstormv
 bamboohr,Senior Creature / Rigging Artist (CFX & Tech Anim),barnstormvfx,,https://barnstormvfx.bamboohr.com/careers/160,
 bamboohr,Artiste principal(e) de créatures - Lead Creature Artist - QC,barnstormvfx,"Montreal, Quebec",https://barnstormvfx.bamboohr.com/careers/176,
 bamboohr,"LOS ANGELES, USA - Compositor - MID/SR - Expression of Interest",barnstormvfx,"Burbank, California",https://barnstormvfx.bamboohr.com/careers/192,
-workable,3D Artist,sideinc,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",https://apply.workable.com/j/C0D40EAFC1,2026-11-05
-workable,3D Animator,sideinc,"Manila, Metro Manila, Philippines",https://apply.workable.com/j/82B966E79B,2026-11-04
-workable,3D Character Artist - Talent Pool (EU),sideinc,"London, England, United Kingdom",https://apply.workable.com/j/DB9081AA14,2025-08-20
-workable,3D Character Artist - Talent Pool (EU),sideinc,"Warsaw, Masovian Voivodeship, Poland",https://apply.workable.com/j/DB9081AA14,2025-08-20
-workable,3D Character Artist - Talent Pool (EU),sideinc,"Berlin, Berlin, Germany",https://apply.workable.com/j/DB9081AA14,2025-08-20
-workable,3D Character Artist - Talent Pool (EU),sideinc,"Madrid, Community of Madrid, Spain",https://apply.workable.com/j/DB9081AA14,2025-08-20
-workable,3D Character Artist - Talent Pool (EU),sideinc,"Stockholm, Stockholm County, Sweden",https://apply.workable.com/j/DB9081AA14,2025-08-20
-workable,3D Character Artist - Talent Pool (LATAM),sideinc,"São Paulo, State of São Paulo, Brazil",https://apply.workable.com/j/565FB5F95C,2025-07-23
-workable,3D Character Artist - Talent Pool (LATAM),sideinc,"Mexico City, Mexico City, Mexico",https://apply.workable.com/j/565FB5F95C,2025-07-23
-workable,3D Character Artist - Talent Pool (LATAM),sideinc,"Guadalajara, Jalisco, Mexico",https://apply.workable.com/j/565FB5F95C,2025-07-23
-workable,3D Character Artist - Talent Pool (APAC),sideinc,"Manila, Metro Manila, Philippines",https://apply.workable.com/j/10A389D89B,2025-04-14
-workable,3D Character Artist - Talent Pool (APAC),sideinc,"Bengaluru, Karnataka, India",https://apply.workable.com/j/10A389D89B,2025-04-14
-workable,3D Character Artist - Talent Pool (APAC),sideinc,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",https://apply.workable.com/j/10A389D89B,2025-04-14
-workable,3D Character Artist - Talent Pool (APAC),sideinc,"Taipei, Taipei City, Taiwan",https://apply.workable.com/j/10A389D89B,2025-04-14
-workable,3D Character Artist - Talent Pool (APAC),sideinc,"Auckland, Auckland, New Zealand",https://apply.workable.com/j/10A389D89B,2025-04-14
 recruitee,AI Lead Artist,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/ai-lead-artist/ai-lead-artist,2026-11-11
 recruitee,AI Supervisor,framestore,"London, United Kingdom",https://framestore.recruitee.com/o/ai-supervisor/ai-supervisor,2026-11-11
 recruitee,Freelance: Houdini Lighting & Look Dev TD,framestore,"New York, United States",https://framestore.recruitee.com/o/freelance-lighting-ny/freelance-lighting-ny,2026-11-10
